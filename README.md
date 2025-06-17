@@ -20,7 +20,7 @@
 #### 2.1 Добавление элементов
 <div align="center">
 
-![Блок-схема добавления элементов в дерево](https://github.com/user-attachments/assets/5dcc4515-affd-4f6f-b82b-e1b3868b340a)
+![Процесс добавления узлов](https://github.com/user-attachments/assets/5dcc4515-affd-4f6f-b82b-e1b3868b340a)  
 *Рисунок 1 — Блок-схема добавления элементов в дерево*
 
 </div>
@@ -28,7 +28,7 @@
 #### 2.2 Поиск элементов
 <div align="center">
 
-![Блок-схема поиска элемента](https://github.com/user-attachments/assets/3a5e3514-d48d-4f1c-90e8-510105ccffbd)
+![Процесс поиска значения](https://github.com/user-attachments/assets/3a5e3514-d48d-4f1c-90e8-510105ccffbd)  
 *Рисунок 2 — Блок-схема поиска элемента*
 
 </div>
@@ -36,7 +36,7 @@
 #### 2.3 Структура дерева
 <div align="center">
 
-![Блок-схема бинарного дерева](https://github.com/user-attachments/assets/19db8204-9a3a-47e6-8f19-cc4ba51799ae)
+![Визуализация структуры](https://github.com/user-attachments/assets/19db8204-9a3a-47e6-8f19-cc4ba51799ae)  
 *Рисунок 3 — Блок-схема бинарного дерева*
 
 </div>
